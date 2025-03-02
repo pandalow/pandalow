@@ -12,7 +12,6 @@
 
 ### 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandalow&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pandalow&theme=tokyonight)  
 
 <!---
 pandalow/pandalow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
