@@ -1,7 +1,7 @@
 ### Hi, I’m @pandalow, 
 All about me : https://pandalow.github.io/
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xjzhuang000john/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23451396/xiao-jian-zhuang)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/pandalow/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xjzhuang000john/)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/pandalow/)  
 
 - 👀 I am interested in full-stack development, natural language processing (NLP).
 - 🌱 I am currently learning Recommender Systems, Neural networks.
